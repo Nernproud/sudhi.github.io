@@ -1,2 +1,2 @@
 # sudhi.github.io
-Basic set up for my new portfolio https://nerdnproud.github.io/
+Basic set up for my new portfolio https://virgoastronaut.github.io
